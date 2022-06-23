@@ -1,0 +1,18 @@
+@import "base/_global.css";
+
+.parent {
+  border: 2px solid #77a6b6;
+  border-radius: 0.5em;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.child {
+  background-color: #4d7298;
+  color: #fff;
+  padding: 0.5em;
+  width: 150px;
+}
